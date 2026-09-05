@@ -39,11 +39,11 @@ Analyzes geographic performance and shipping-related metrics.
 
 ## 💡 Key Insights
 
-- The dashboard generated **$10M in total revenue** with **$2M in total profit**, resulting in an **18% profit margin**.
-- **December** recorded the highest monthly revenue at **$1.57M**, followed by November at **$1.48M** and September at **$1.30M**.
-- Revenue increased significantly during the final months of the year, indicating stronger sales performance toward year-end.
-- The **West region** generated the highest revenue at **$3.4M**, followed by the East ($2.7M), Central ($2.2M), and South ($1.6M).
-- **Technology** was the highest-revenue category at **$245K**, followed by Office Supplies at **$187K** and Furniture at **$18K**.
+- The dashboard generated **$10M in total revenue** and **$2M in total profit**, resulting in an **18% profit margin**.
+- **December** recorded the highest monthly revenue at **$1.57M**, followed by **November ($1.48M)** and **September ($1.30M)**.
+- Monthly revenue showed stronger performance during the final quarter, with revenue reaching its highest level in December.
+- The **West region** generated the highest revenue at **$3.4M**, followed by the **East ($2.7M)**, **Central ($2.2M)**, and **South ($1.6M)**.
+- **Technology** generated the highest revenue among the displayed categories at **$245K**, followed by **Office Supplies ($187K)** and **Furniture ($18K)**.
 - The dashboard recorded approximately **5K total orders**, with an **Average Order Value (AOV) of $2K**.
 
 ## 🛠️ Tools & Technologies
@@ -74,9 +74,7 @@ Analyzes geographic performance and shipping-related metrics.
 ### Geography & Shipping
 ![Geography & Shipping](Screenshots/6-Geography%20%26%20Shipping.png)
 
-## 📁 Project Files
-
-- `Jumia project.pbix` — Power BI dashboard
+- `jumia project-.pbix` — Power BI dashboard
 - `Screenshots/` — Dashboard screenshots
 
 ## 💡 Key Skills Demonstrated
