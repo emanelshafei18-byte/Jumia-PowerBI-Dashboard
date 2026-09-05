@@ -88,6 +88,8 @@ Analyzes geographic performance and shipping-related metrics.
 ### Geography & Shipping
 ![Geography & Shipping](Screenshots/6-Geography%20%26%20Shipping.png)
 
+## 📁 Project Files
+
 - `jumia project-.pbix` — Power BI dashboard
 - `Screenshots/` — Dashboard screenshots
 
