@@ -68,6 +68,13 @@ Analyzes geographic performance and shipping-related metrics.
 - **Data Modeling**
 - **Data Visualization**
 
+## 🔍 Analytical Approach
+
+- **Data Cleaning & Transformation:** Cleaned and transformed the raw dataset using Power Query to prepare the data for analysis.
+- **Data Modeling:** Built a structured data model to support efficient analysis and interactive reporting.
+- **DAX Measures:** Developed DAX measures to calculate KPIs and key business metrics such as Total Sales, Total Profit, Profit Margin, and Average Order Value (AOV).
+- **Interactive Dashboard Development:** Designed interactive Power BI dashboards with KPIs, charts, slicers, and drill-through functionality to enable detailed business analysis.
+
 ## 📷 Dashboard Preview
 
 ### Introduction
