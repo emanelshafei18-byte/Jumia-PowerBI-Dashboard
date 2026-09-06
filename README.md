@@ -101,6 +101,24 @@ Analyzes geographic performance and shipping-related metrics.
 - `Screenshots/` — Dashboard screenshots
 - `Dataset.xlsx` — Dataset used for the analysis
 
+## 📂 Repository Structure
+
+```text
+Jumia-PowerBI-Dashboard/
+│
+├── 📊 Jumia_Sales_Performance_Dashboard.pbix
+├── 📄 Dataset.xlsx
+├── 📄 README.md
+├── 📄 LICENSE
+│
+└── 📁 Screenshots/
+    ├── 1-Introduction.png
+    ├── 2-Performance Overview.png
+    ├── 3-Sales & Revenue Analysis.png
+    ├── 4-Product Analysis.png
+    ├── 5-Customer Analysis.png
+    └── 6-Geography & Shipping.png
+
 ## 💡 Key Skills Demonstrated
 
 - Data Cleaning & Transformation
