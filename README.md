@@ -107,4 +107,6 @@ Analyzes geographic performance and shipping-related metrics.
 
 **Eman Elshafei**
 
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
+**Data Analyst | Power BI | SQL | Excel**
+
+[LinkedIn](https://www.linkedin.com/in/eman-elshafei) • [GitHub](https://github.com/emanelshafei18-byte)
