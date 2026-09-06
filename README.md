@@ -92,6 +92,7 @@ Analyzes geographic performance and shipping-related metrics.
 
 - `jumia project-.pbix` — Power BI dashboard
 - `Screenshots/` — Dashboard screenshots
+- `Dataset.xlsx` — Dataset used for the analysis
 
 ## 💡 Key Skills Demonstrated
 
