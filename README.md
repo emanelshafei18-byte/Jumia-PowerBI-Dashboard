@@ -39,15 +39,15 @@ Analyzes geographic performance and shipping-related metrics.
 
 ## 💡 Key Insights
 
-- The dashboard generated approximately **$10M in total revenue** and **$2M in total profit**, with an overall **18% profit margin**.
+- The dashboard generated approximately **EGP 10M in total revenue** and **EGP 2M in total profit**, with an overall **18% profit margin**.
 
-- Revenue showed strong growth toward the end of the period, reaching its highest monthly value in **December ($1.57M)**, followed by **November ($1.48M)** and **September ($1.30M)**.
+- Revenue showed strong growth toward the end of the period, reaching its highest monthly value in **December (EGP 1.57M)**, followed by **November (EGP 1.48M)** and **September (EGP 1.30M)**.
 
-- **West** was the highest-performing region, generating **$3.4M in revenue** and approximately **$0.6M in total profit**, followed by East with $2.7M in revenue.
+- **West** was the highest-performing region, generating **EGP 3.4M in revenue** and approximately **EGP 0.6M in total profit**, followed by East with EGP 2.7M in revenue.
 
-- **Technology** generated the highest revenue among the three main categories at **$245K**, followed by Office Supplies ($187K) and Furniture ($18K).
+- **Technology** generated the highest revenue among the three main categories at **EGP 245K**, followed by Office Supplies (EGP 187K) and Furniture (EGP 18K).
 
-- **Chairs ($1.42M)** and **Phones ($1.38M)** were the top revenue-generating sub-categories, followed by Storage ($1.04M) and Tables ($0.90M).
+- **Chairs (EGP 1.42M)** and **Phones (EGP 1.38M)** were the top revenue-generating sub-categories, followed by Storage (EGP 1.04M) and Tables (EGP 0.90M).
 
 - Discounting had a significant impact on profitability. Products with **30%+ discounts recorded a negative 37% profit margin**, compared with **29% for products with no discount**.
 
@@ -55,10 +55,9 @@ Analyzes geographic performance and shipping-related metrics.
 
 - **Standard Class** was the most frequently used shipping method, accounting for **60% of orders**, while Same Day represented only **5%**.
 
-- The product analysis identified **Canon Imageclass 2200 Advanced Copier** as a strong performer, generating approximately **$99K in profit** and **$231K in revenue**.
+- The product analysis identified **Canon Imageclass 2200 Advanced Copier** as a strong performer, generating approximately **EGP 99K in profit** and **EGP 231K in revenue**.
 
-- The dashboard recorded approximately **5K orders**, with an **Average Order Value (AOV) of $2K** and approximately **38K units sold**.
-
+- The dashboard recorded approximately **5K orders**, with an **Average Order Value (AOV) of EGP 2K** and approximately **38K units sold**.
 
 ## 🛠️ Tools & Technologies
 
